@@ -36,3 +36,18 @@ body {
     background-size: cover;
     background-position: 50%;
 }
+
+
+.projects {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.carousel-item {
+    justify-content: center;
+}
+
+
+.contactMe {
+    text-align: center;
+}
