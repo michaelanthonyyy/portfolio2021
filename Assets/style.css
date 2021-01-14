@@ -50,4 +50,18 @@ body {
 
 .contactMe {
     text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
+
+.contactContent {
+    align-content: center;
+}
+
+.linkedIn {
+    align-content: center;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+
