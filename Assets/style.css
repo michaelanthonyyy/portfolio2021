@@ -1,0 +1,9 @@
+.has-bg-img {
+    background-image: url("https://negativespace.co/wp-content/uploads/2017/10/negative-space-code-html-dark-background-Mian-Shahzad-Raza-thumb-1.jpg");
+    background-size: cover;
+    background-position: 50%;
+}
+
+.title {
+    color: white;
+}
