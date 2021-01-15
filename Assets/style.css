@@ -64,4 +64,11 @@ body {
     padding-right: 5%;
 }
 
+.photo {
+    align-content: center;
+}
 
+.has-image-centered {
+    margin-left: auto;
+    margin-right: auto;
+  }
