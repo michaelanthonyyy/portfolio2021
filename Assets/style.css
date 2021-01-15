@@ -26,27 +26,22 @@
     color: lightblue;
 }
 
-#aboutMe {
-    text-align: center;
-    padding-top: 50px;
-}
-
 body {
     background-image: url("https://cdn.pixabay.com/photo/2016/10/22/17/06/gradient-1761190_960_720.jpg");
     background-size: cover;
     background-position: 50%;
 }
 
-
-#projects {
+#aboutMe {
     text-align: center;
     padding-top: 50px;
 }
 
-.carousel-item {
-    justify-content: center;
+#projects {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
-
 
 #contactMe {
     text-align: center;
@@ -54,9 +49,9 @@ body {
     padding-bottom: 50px;
 }
 
-.contactContent {
+/* .contactContent {
     align-content: center;
-}
+} */
 
 .linkedIn {
     align-content: center;
