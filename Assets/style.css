@@ -26,7 +26,7 @@
     color: lightblue;
 }
 
-.aboutMe {
+#aboutMe {
     text-align: center;
     padding-top: 50px;
 }
@@ -38,7 +38,7 @@ body {
 }
 
 
-.projects {
+#projects {
     text-align: center;
     padding-top: 50px;
 }
@@ -48,7 +48,7 @@ body {
 }
 
 
-.contactMe {
+#contactMe {
     text-align: center;
     padding-top: 50px;
     padding-bottom: 50px;
