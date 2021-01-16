@@ -12,7 +12,7 @@ made to reflect the current best projects deployed on Github profile as well as 
 
 ![Site](Assets/Images/aboutmescreenshot.png)
 
-![Site](Assets/Images/projectssscreenshot.png)
+![Site](Assets/Images/projectsscreenshot.png)
 
 ![Site](Assets/Images/contactmescreenshot.png)
 <br>
