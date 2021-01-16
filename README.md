@@ -8,13 +8,13 @@ made to reflect the current best projects deployed on Github profile as well as 
 <br>
 
 ## Site Picture
-![Site](https://github.com/michaelanthonyyy/portfolio2021/raw/main/Assets/homescreenshot.png)
+![Site](Assets/Images/homescreenshot.png)
 
-![Site](https://github.com/michaelanthonyyy/portfolio2021/raw/main/Assets/aboutmescreenshot.png)
+![Site](Assets/Images/aboutmescreenshot.png)
 
-![Site](https://github.com/michaelanthonyyy/portfolio2021/raw/main/Assets/projectssscreenshot.png)
+![Site](Assets/Images/projectssscreenshot.png)
 
-![Site](https://github.com/michaelanthonyyy/portfolio2021/raw/main/Assets/contactmescreenshot.png)
+![Site](Assets/Images/contactmescreenshot.png)
 <br>
 
 ## Code Snippet
